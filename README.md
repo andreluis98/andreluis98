@@ -25,7 +25,7 @@
  
 </div>
   
-- 🔭Atualmente trabalho com Java
-- 🌱 Estudo Java,HTML e CSS
+- 🔭Atualmente trabalho com Angular
+- 🌱 Estudo Java, HTML, CSS, Angular, JS e TS.
 - 😄 Pronouns: ele/dele
 
