@@ -1,4 +1,4 @@
-### Oiii! Eu sou o André Luís  
+### Oi! Eu sou o André Luís  
 
 <div align="center">
   <a href="https://github.com/andreluis98">
@@ -29,7 +29,7 @@
  
 </div>
   
-- 🔭Atualmente trabalho com --
+- 🔭Atualmente trabalho com Angular (Spartacus), Typescript, Java (Hybris)
 - 🌱 Estudo Java, HTML, CSS, Angular, JS e TS.
 - 😄 Pronouns: ele/dele
 
