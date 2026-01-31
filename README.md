@@ -29,7 +29,7 @@
  
 </div>
   
-- 🔭Atualmente trabalho com Angular (Spartacus), Typescript, Java (Hybris)
-- 🌱 Estudo Java, HTML, CSS, Angular, JS e TS.
+- 🔭Atualmente trabalho com Angular 8+, Typescript, Python
+- 🌱 Estudo Java, HTML, CSS, Angular, JS e TS, e Python
 - 😄 Pronouns: ele/dele
 
